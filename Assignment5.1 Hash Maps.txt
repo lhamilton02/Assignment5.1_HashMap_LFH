@@ -1,0 +1,11 @@
+﻿Levi Hamilton
+CS-215-ON
+Assignment 5.1 Hash Maps
+
+
+
+
+1. A hash function is used to map data to a value or a hash code. The hash code is used to determine the index or location where the data’s stored..The hash function takes the key as input and produces the code.
+2. A string hash function typically takes each character of the string and transforms it into a numerical value. It then combines these numerical values in a way that produces a unique or evenly distributed hash code.
+3. Searching for a key in a large dataset can be time-consuming, whereas Hashing allows for faster access to data because it converts the key into an index directly.
+4. In Java the hashCode() method generates a hash code based on the contents of the string. The HashMap class in Java, which is part of java utilities, uses this hash code to determine the index for storing and retrieving entries.
